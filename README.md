@@ -1,4 +1,4 @@
-# UWAU
+# Takım ismi
 Takım ismi
-# Ürün ile İlgili Bilgiler
-##Takım elemanları
+# ##Takım elemanları
+
