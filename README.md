@@ -20,7 +20,7 @@ UWAU
 ## Ürün Özellikleri 
 - Tek oyunculu bir hikaye modunda çeşitli görevler
 - Seçimlere göre değişikilik gösteren hikaye
-- Combat sistemi
+- Combat sistemi(Turn based ve real time)
 ## Pazar - Benzer Oyunlar
 - DELTARUNE
 - Final Fantasy XVII
