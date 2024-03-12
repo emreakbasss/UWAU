@@ -1,1 +1,3 @@
 # UWAU
+Takım ismi
+# kARAKTER
