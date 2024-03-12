@@ -1,3 +1,4 @@
 # UWAU
 Takım ismi
-# kARAKTER
+# Ürün ile İlgili Bilgiler
+Takım elemanları
