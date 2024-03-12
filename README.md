@@ -1,4 +1,4 @@
 # Takım ismi
 Takım ismi
-# ##Takım elemanları
+#Takım elemanları
 
