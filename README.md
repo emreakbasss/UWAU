@@ -13,15 +13,13 @@ Seçim Bazlı Indie RBG Game
 - Dilan Işık
 ## Ürün İsmi
 UWAU
-
 ## Hedef Kitle
 - Indie oyun tarzını sevenler
 - Oyun alanına ilgi duyanlar
 - 13+ kullanıcılar
-  
-## Ürün Özellikleri
+## Ürün Özellikleri 
 - Tek oyunculu bir hikaye modunda çeşitli görevler
-- Seçimlere göre değişikilik gösteren
-
-## Ürün Özellikleri
+- Seçimlere göre değişikilik gösteren hikaye
+- Combat sistemi
+## Ürün Açıklaması
 - Biz kaybolmuş bir ruhuz, kim olduğumuzu ve nereden geldiğimizi araştırıyoruz ve karşımıza gelen düşmanlarla mücadele ederek seçimlerimizle oyunun devamlılığını değiştiriyoruz.
