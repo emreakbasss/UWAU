@@ -21,5 +21,8 @@ UWAU
 - Tek oyunculu bir hikaye modunda çeşitli görevler
 - Seçimlere göre değişikilik gösteren hikaye
 - Combat sistemi
+## Pazar - Benzer Oyunlar
+-DELTARUNE
+
 ## Ürün Açıklaması
 - Biz kaybolmuş bir ruhuz, kim olduğumuzu ve nereden geldiğimizi araştırıyoruz ve karşımıza gelen düşmanlarla mücadele ederek seçimlerimizle oyunun devamlılığını değiştiriyoruz.
